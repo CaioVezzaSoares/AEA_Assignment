@@ -1,0 +1,12 @@
+#libraries
+
+import pandas as pd
+import numpy as np
+import pymc3 as pm
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy import stats, optimize
+import random
+import wbdata as wb
+
+elec_20 = pd.read_csv('XXX')
