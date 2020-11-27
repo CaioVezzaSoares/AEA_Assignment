@@ -9,4 +9,5 @@ from scipy import stats, optimize
 import random
 import wbdata as wb
 
-elec_20 = pd.read_csv('XXX')
+elec_20 = pd.read_csv('https://github.com/CaioVezzaSoares/Test/blob/main/eleicoes%2020.csv')
+
